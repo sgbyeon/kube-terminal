@@ -45,8 +45,7 @@ PS1='[\u@\h \W $(kube_ps1)]# '
 source ~/.bashrc
 ```
 ---
-![kube-terminal 적용](https://photos.google.com/photo/AF1QipN4fiNgK8GvhGmC9hkElNSZQpb01xj_CAjd9wY)
-
+![kube-terminal](https://user-images.githubusercontent.com/31094223/144174538-5abe48f7-3012-4d69-9fad-44096cefeeb4.JPG)
 ##  PS1에서 Symbol 제거
 #### Putty와 같이 Unicode Character가 깨지는 것이 보기 싫을 경우 symbol을 제거하는 방법
 /usr/bin/kube-ps1.sh 파일에서 kube_ps1() 함수에서 Symbol 부분을 아래와 같이 주석 처리
